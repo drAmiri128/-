@@ -1,0 +1,6 @@
+{
+  "name": "سامانه آزمون و محتوا",
+  "description": "سامانه مدیریت آزمون، پرسش‌ها و محتوا با پنل کنترل‌گر، برنامه‌های مزار، دانشنامه امام‌شناسی، کتابخانه دیجیتال و بخش نوای مداحی اهل‌بیت (ع)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
